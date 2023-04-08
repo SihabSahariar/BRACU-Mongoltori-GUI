@@ -1,5 +1,5 @@
 # BRACU-Mongoltori-GUI
-BRACU Mongol Tori is a next-generation Mars rover that will one day work alongside human explorers on the red planet. 
+BRACU Mongol Tori is a next-generation Mars rover that will one day work alongside human explorers on the red planet. This code was developed in 2021 for University Rover Challange(URC) 2021. This code based on socket communication between our rover and base station. 
 
 ```
 pip install -r requirements.txt
